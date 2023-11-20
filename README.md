@@ -5,3 +5,13 @@
 
 Desenvolvido em TailwindCSS
 Solicitação CMS Basica porem com informativos.
+
+Informaçõs basicas solicitada
+
+# Login 
+# Registro 
+# Noticias 
+
+
+Desenvolvimento gratuito para ajudar no crescimento do hotel. 
+Mais informações ou modificações fique avontade, por favor seja um bom programador e não remova os créditos.
